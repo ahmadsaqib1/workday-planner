@@ -22,7 +22,7 @@ The following images show the web application's appearance and functionality:
 
 ## Website
 
-https://github.com/ahmadsaqib1/workday-planner
+ https://ahmadsaqib1.github.io/workday-planner/
 
 ## Contributions
 

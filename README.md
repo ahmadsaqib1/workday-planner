@@ -9,9 +9,9 @@ day in order to keep track of daily routine.
 
 The following image shows the web application's appearance and functionality:
 
-![Current day  ](./demo/demo1.PNG)
-![Timeblocks UI](./demo/demo2.PNG)
-![Timeblocks functionality](./demo/demo3.PNG)
+![Current day  ](./demo/demo1.png)
+![Timeblocks UI](./demo/demo2.png)
+![Timeblocks functionality](./demo/demo3.png)
 
 ## Technologies
 

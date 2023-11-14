@@ -10,7 +10,6 @@ day in order to keep track of daily routine.
 The following images show the web application's appearance and functionality:
 
 ![Current day  ](./demo/demo1.png)
-![Timeblocks UI](./demo/demo2.png)
 ![Timeblocks functionality](./demo/demo3.png)
 
 ## Technologies

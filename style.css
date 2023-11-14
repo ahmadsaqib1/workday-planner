@@ -74,6 +74,17 @@ header {
   transition: all 0.3s ease-in-out;
 }
 
+.btn:focus-visible,
+.btn:hover,
+.btn:active,
+:not(.btn-check) + .btn:active {
+  background-color: #0a9ec0;
+}
+
+textarea:focus-visible {
+  outline: 2px solid #06aed5;
+}
+
 .p1 {
   padding-top: 1rem;
   padding-bottom: 1rem;
